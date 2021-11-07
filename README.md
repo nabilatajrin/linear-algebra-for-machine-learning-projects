@@ -1,1 +1,1 @@
-# nabilatajrin-linear-algebra
+# linear-algebra
