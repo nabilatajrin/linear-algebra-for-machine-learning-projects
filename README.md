@@ -7,6 +7,13 @@ The Gram-Schmidt process is a method for constructing an orthonormal  basis of a
 This is a program that computes a  Gram-Schmidt basis, and gives the dimension of a span of vectors.<br>
 Link: https://github.com/nabilatajrin/linear-algebra-projects/blob/main/GramSchmidtProcess.ipynb
 
+### Identifying special matrices
+When coding or solving data analysis problems, one problem that can  occur is if our code encounters a special matrix that isn't invertible, or has an infinite number of eigenvectors, or similar. On other occasions, for example where we are reducing dimensionality, that might  even be desirable!  So here we will write a code fragment that traps for different types of special matrices before calling the python inversion routine, and classifies the type of special case encountered.  As much as anything, this is to give us a chance to give a Python coding exercise a try out in order to build confidence before doing some longer examples  later.<br>
+
+In this assignment, we shall write a function that will test if a 4×4 matrix is singular, i.e. to determine if an inverse exists, before calculating it.
+We shall use the method of converting a matrix to echelon form, and testing if this fails by leaving zeros that can’t be removed on the leading diagonal.
+Link: https://github.com/nabilatajrin/linear-algebra-projects/blob/main/IdentifyingSpecialMatrices.ipynb
+
 ### page-rank
 In this notebook, we'll build on our knowledge of eigenvectors and eigenvalues by exploring the PageRank algorithm.
 The notebook is in two parts, the first is a worksheet to get us up to speed with how the algorithm works - here we will look at a micro-internet with fewer than 10 websites and see what it does and what can go wrong.
