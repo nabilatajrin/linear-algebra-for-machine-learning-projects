@@ -7,6 +7,10 @@ In this worksheet we will implement the steepest descent algorithm on the least 
 We should notice that despite taking input from a vector of data points, it isn't significantly more complicated than when we did steepest descent in the sandpit.
 Link: https://github.com/nabilatajrin/linear-algebra-projects/blob/main/FittingTheDistributionOfHeightsData.ipynb
 
+### Gradient descent in a sandpit
+In this project, we will examine strategies for steepest descent and how effective they are at finding the supervisor's mobile phone. I.e., solving the minimisation problem.
+Link: https://github.com/nabilatajrin/linear-algebra-projects/blob/main/GradientDescentInSandpit.ipynb
+
 ### Gram-Schmidt-process
 The Gram-Schmidt process is a method for constructing an orthonormal  basis of a space that a set of given vectors span. It can also be used  to determine the dimension of that space, which may be different than  the dimension of the vectors themselves or the number of vectors provided to span the space.
 
