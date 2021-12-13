@@ -1,6 +1,11 @@
 # linear-algebra-projects
 This repository contains projects of linear algebra. The links are given below:
 
+### Fitting the distribution of heights data
+In this worksheet we will implement the steepest descent algorithm on the least squares fitting problem for modelling the distribution of heights in a population with a Gaussian.
+
+We should notice that despite taking input from a vector of data points, it isn't significantly more complicated than when we did steepest descent in the sandpit.
+
 ### Gram-Schmidt-process
 The Gram-Schmidt process is a method for constructing an orthonormal  basis of a space that a set of given vectors span. It can also be used  to determine the dimension of that space, which may be different than  the dimension of the vectors themselves or the number of vectors provided to span the space.
 
