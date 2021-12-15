@@ -1,4 +1,4 @@
-# linear-algebra-projects
+# calculus-for-machine-learning-projects
 This repository contains projects of linear algebra. The links are given below:
 
 ### Fitting the distribution of heights data
