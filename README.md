@@ -1,5 +1,5 @@
 # calculus-for-machine-learning-projects
-This repository contains projects of linear algebra. The links are given below:
+This repository contains some projects of linear algebra. The links are given below:
 
 ### Fitting the distribution of heights data
 In this worksheet we will implement the steepest descent algorithm on the least squares fitting problem for modelling the distribution of heights in a population with a Gaussian.
